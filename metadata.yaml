@@ -1,5 +1,5 @@
 _repo: The-Living-Animals-of-the-World-Volume-1-of-2-A-Popular-Natural-History_60000
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Saville-Kent, William
@@ -28,7 +28,7 @@ contributor:
     - Johnston, Henry Hamilton, Sir
     - Johnston, H. H. (Harry Hamilton), Sir
     - Johnston, Sir Harry Hamilton
-    birthdate: &id001 1858
+    birthdate: 1858
     deathdate: 1927
     gutenberg_agent_id: '4771'
     url: http://www.gutenberg.org/2009/agents/4771
@@ -57,16 +57,21 @@ contributor:
     gutenberg_agent_id: '33792'
     url: http://www.gutenberg.org/2009/agents/33792
     wikipedia: http://en.wikipedia.org/wiki/Louis_Wain
+covers:
+- cover_type: archival
+  image_path: 60000-h/images/i_cover.jpg
 creator:
   editor:
     agent_name: Cornish, C. J. (Charles John)
     alias: Cornish, Charles John
-    birthdate: *id001
+    birthdate: 1858
     deathdate: 1906
     gutenberg_agent_id: '2848'
     url: http://www.gutenberg.org/2009/agents/2848
     wikipedia: https://en.wikipedia.org/wiki/Charles_John_Cornish
 description: 'Volume 1: Mammals.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60000#The-Living-Animals-of-the-World-Volume-1-of-2-A-Popular-Natural-History
 gutenberg_issued: '2019-07-28'
 gutenberg_type: Text
 identifiers:
