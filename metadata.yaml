@@ -1,0 +1,86 @@
+_repo: The-Living-Animals-of-the-World-Volume-1-of-2-A-Popular-Natural-History_60000
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Saville-Kent, William
+    birthdate: 1845
+    deathdate: 1908
+    gutenberg_agent_id: '50725'
+    url: http://www.gutenberg.org/2009/agents/50725
+    wikipedia: https://en.wikipedia.org/wiki/William_Saville-Kent
+  - agent_name: Bryden, H. A. (Henry Anderson)
+    alias: Bryden, Henry Anderson
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '36106'
+    url: http://www.gutenberg.org/2009/agents/36106
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Bryden
+  - agent_name: Selous, Frederick Courteney
+    alias: Selous, F. C. (Frederick Courteney)
+    birthdate: 1851
+    deathdate: 1917
+    gutenberg_agent_id: '7619'
+    url: http://www.gutenberg.org/2009/agents/7619
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Selous
+  - agent_name: Johnston, Harry
+    aliases:
+    - Johnston, H.H.
+    - Johnston, Henry Hamilton, Sir
+    - Johnston, H. H. (Harry Hamilton), Sir
+    - Johnston, Sir Harry Hamilton
+    birthdate: &id001 1858
+    deathdate: 1927
+    gutenberg_agent_id: '4771'
+    url: http://www.gutenberg.org/2009/agents/4771
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Johnston
+  - agent_name: Lane, Charles Henry
+    gutenberg_agent_id: '43249'
+    url: http://www.gutenberg.org/2009/agents/43249
+  - agent_name: Aflalo, Frederick G. (Frederick George)
+    aliases:
+    - Aflalo, Frederick George
+    - Aflalo, F. G. (Frederick George)
+    birthdate: 1870
+    deathdate: 1918
+    gutenberg_agent_id: '32704'
+    url: http://www.gutenberg.org/2009/agents/32704
+  - agent_name: Pycraft, W. P. (William Plane)
+    alias: Pycraft, William Plane
+    birthdate: 1868
+    deathdate: 1942
+    gutenberg_agent_id: '43093'
+    url: http://www.gutenberg.org/2009/agents/43093
+    wikipedia: https://en.wikipedia.org/wiki/William_Plane_Pycraft
+  - agent_name: Wain, Louis
+    birthdate: 1860
+    deathdate: 1939
+    gutenberg_agent_id: '33792'
+    url: http://www.gutenberg.org/2009/agents/33792
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Wain
+creator:
+  editor:
+    agent_name: Cornish, C. J. (Charles John)
+    alias: Cornish, Charles John
+    birthdate: *id001
+    deathdate: 1906
+    gutenberg_agent_id: '2848'
+    url: http://www.gutenberg.org/2009/agents/2848
+    wikipedia: https://en.wikipedia.org/wiki/Charles_John_Cornish
+description: 'Volume 1: Mammals.'
+gutenberg_issued: '2019-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals'
+- !lcsh 'Zoology'
+- GITenberg
+title: 'The Living Animals of the World, Volume 1 (of 2)
+
+  A Popular Natural History'
+url: http://www.gutenberg.org/ebooks/60000
